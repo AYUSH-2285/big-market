@@ -1,0 +1,1 @@
+//User schema (for storing storekeeper details)
