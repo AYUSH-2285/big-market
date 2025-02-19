@@ -1,0 +1,1 @@
+//Checkout page where storekeepers place orders

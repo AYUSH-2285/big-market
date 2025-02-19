@@ -1,0 +1,1 @@
+//Centralized state management for the app

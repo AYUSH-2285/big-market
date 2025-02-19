@@ -1,0 +1,1 @@
+//Renders React app to the DOM

@@ -1,0 +1,1 @@
+//Payment schema (for payment details)
